@@ -48,9 +48,13 @@
               		 <?php $limit= limit($post['body'],10)?>
               		 <p><?php echo $limit;?></p>
 
+<<<<<<< HEAD
+              		 <a class="btn btn-primary" href="<?php echo ROOT_URL; ?>post.php?id=<?php echo $post['id']; ?>">Read More</a> 
+=======
               		 <a class="btn btn-primary" href="<?php echo ROOT_URL; ?>post.php?id=<?php echo $post['id']; ?>">Read More</a>
               		 
               		 
+>>>>>>> ca82dc29a6d83765a4895fcac22d6d95c6cf7182
 
              </div>
              <br>
