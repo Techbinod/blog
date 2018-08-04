@@ -19,11 +19,6 @@
         
         <a class="nav-link" href="<?php echo ROOT_URL;?>addpost.php">Add Post</a>
       </li>
-      
-       
-     
-     
-      
     </ul>
     
   </div>
